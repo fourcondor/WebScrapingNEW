@@ -1,8 +1,0 @@
-script in python grabbare email da vari siti web
-tabella in excel report
-indirizzi email aziendali
-e mi tiro fuori ip pubblico
-
------
-ip publicco : 195.39.203.91 -> nmap da fare il report
-
